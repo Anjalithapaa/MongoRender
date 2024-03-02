@@ -4,7 +4,7 @@ const { MongoClient } = require("mongodb");
 const uri = "mongodb+srv://anjali:<hello123>@ckmdb.5oxvqja.mongodb.net/MangoDBProject";
 ";
 
-// --- This is the standard stuff to get it to work on the browser
+// This is the standard stuff to get it to work on the browser
 const express = require('express');
 const app = express();
 const port = 3000;
